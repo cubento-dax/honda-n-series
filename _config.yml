@@ -4,7 +4,7 @@
 remote_theme: pmarsceill/just-the-docs
 # logo: "/assets/images/site-logo.png"
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 search_enabled: true
 search:
