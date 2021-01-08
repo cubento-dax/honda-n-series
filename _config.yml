@@ -2,7 +2,7 @@
 # Configuration information: https://pmarsceill.github.io/just-the-docs/docs/configuration/ #
 #-------------------------------------------------------------------------------------------#
 remote_theme: pmarsceill/just-the-docs
-title: Honda N-Series Information
+title: Honda N-Series
 # logo: "/assets/images/site-logo.png"
 color_scheme: light                     # Color scheme supports "light" (default) and "dark"
 
