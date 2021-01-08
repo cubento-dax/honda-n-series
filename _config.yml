@@ -47,13 +47,13 @@ collections:
     
 just_the_docs:
   collections:
-    nbox:
+    n-box:
       name: Honda N-BOX
-    none:
+    n-one:
       name: Honda N-ONE
-    nvan:
+    n-van:
       name: Honda N-VAN
-    nwgn:
+    n-wgn:
       name: Honda N-WGN
 
 # Aux links for the upper right navigation
