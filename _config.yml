@@ -32,16 +32,16 @@ search:
   button: false
 
 collections:
-  nbox:
+  n-box:
     permalink: "/:collection/:path/"
     output: true
-  none:
+  n-one:
     permalink: "/:collection/:path/"
     output: true
-  nvan:
+  n-van:
     permalink: "/:collection/:path/"
     output: true    
-  nwgn:
+  n-wgn:
     permalink: "/:collection/:path/"
     output: true
     
