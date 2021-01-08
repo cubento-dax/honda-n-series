@@ -50,14 +50,8 @@ just_the_docs:
 
 # Aux links for the upper right navigation
 aux_links:
-  "N-BOX":
-    - "www.honda.co.jp/NBox/"
-  "N-ONE":
-    - "www.honda.co.jp/N-ONE/"
-  "N-VAN":
-    - "www.honda.co.jp/N-VAN/"
-  "N-WGN":
-    - "www.honda.co.jp/N-WGN/"
+  "Honda Japan":
+    - "//www.honda.co.jp/auto/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
