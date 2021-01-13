@@ -7,3 +7,19 @@ nav_order: 1
 
 # Honda N-BOX
 {:toc}
+
+## 2021 Prices ￥　[Ex-tax]
+
+| Grade                    | FWD         | 4WD         |
+| ------------------------ | ----------- | ----------- |
+| NBOX G                   | ￥1,299,000 | ￥1,420,000 |
+| NBOX G Slope             | ￥1,629,000 | ￥1,750,000 |
+| NBOX L                   | ￥1,418,000 | ￥1,539,000 |
+| NBOX L Co-ordinate       | ￥1,618,000 | ￥1,739,000 |
+| NBOX L Slope             | ￥1,748,000 | ￥1,869,000 |
+| NBOX L Slope Co-ordinate | ￥1,948,000 | ￥2,069,000 |
+| NBOX L Turbo             | ￥1,599,000 | ￥1,720,000 |
+| NBOX L Turbo Co-ordinate | ￥1,718,000 | ￥1,839,000 |
+| NBOX L Slope Turbo       | ￥1,929,000 | ￥2,050,000 |
+| NBOX EX                  | ￥1,508,000 | ￥1,629,000 |
+| NBOX EX Turbo            | ￥1,645,000 | ￥1,766,000 |
