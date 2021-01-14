@@ -41,12 +41,16 @@ just_the_docs:
   collections:
     n-box:
       name: Honda N-BOX
+      nav_exclude: false
     n-one:
       name: Honda N-ONE
+      nav_exclude: false
     n-van:
       name: Honda N-VAN
+      nav_exclude: false
     n-wgn:
       name: Honda N-WGN
+      nav_exclude: false
 
 # Aux links for the upper right navigation
 aux_links:
