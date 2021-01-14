@@ -24,32 +24,14 @@ search:
   button: false
 
 collections:
-  n-box:
-    permalink: "/:collection/:path/"
-    output: true
-  n-one:
-    permalink: "/:collection/:path/"
-    output: true
-  n-van:
-    permalink: "/:collection/:path/"
-    output: true    
-  n-wgn:
+  specs:
     permalink: "/:collection/:path/"
     output: true
     
 just_the_docs:
   collections:
-    n-box:
-      name: Honda N-BOX
-      nav_exclude: false
-    n-one:
-      name: Honda N-ONE
-      nav_exclude: false
-    n-van:
-      name: Honda N-VAN
-      nav_exclude: false
-    n-wgn:
-      name: Honda N-WGN
+    specs:
+      name: Specifications
       nav_exclude: false
 
 # Aux links for the upper right navigation
