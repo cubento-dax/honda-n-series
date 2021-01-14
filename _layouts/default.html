@@ -57,6 +57,9 @@ layout: table_wrappers
           {% if collection_value.nav_exclude != true %}
             {% if collections_size > 1 %}
               <div class="nav-category">{{ collection_value.name }}</div>
+              {% for page in collection %}
+                <a href="{{ page.url }}">{{ page }}</a>
+              {% endfor %}
             {% endif %}
             {% include nav.html pages=collection %}
           {% endif %}
